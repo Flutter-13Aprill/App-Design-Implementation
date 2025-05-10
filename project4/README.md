@@ -2,12 +2,12 @@
 
 #  StreamBun 🐇🥪
 
-We all were in a situation where we are hungry and order food that's the easy part but the hard part about it is what am I going to watch 😮‍💨
+We all were in a situation where we are hungry and order food that's the easy part but the hard part about it is what am I going to watch 😮‍💨<br><br>
 
 Well worry not my friend Because I'm here
 <img src = "assets/github_images/papyrus_pause.gif" alt = "papyrus - gif"> <br>
 I offer you StreamBun 🐇 You can watch quickly your favorite streamer
-or even watch a new streamer and maybe they will be your new favorite, you can discover the games and watch their walkthrough 🎮🎮
+or even watch a new streamer and maybe they will be your new favorite, you can discover the games and watch their walkthrough 🎮🎮<br>
 
 ---
 
@@ -33,9 +33,9 @@ or even watch a new streamer and maybe they will be your new favorite, you can d
 
 ## 📦 Packages
 
- [Font Awesome Icon](https://pub.dev/packages/font_awesome_flutter)
- [Animated Text Kit](https://pub.dev/packages/animated_text_kit)
- [Shimmer](https://pub.dev/packages/shimmer)
+ [Font Awesome Icon](https://pub.dev/packages/font_awesome_flutter)<br>
+ [Animated Text Kit](https://pub.dev/packages/animated_text_kit)<br>
+ [Shimmer](https://pub.dev/packages/shimmer)<br>
 
 
 ---
