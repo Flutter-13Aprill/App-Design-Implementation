@@ -12,7 +12,7 @@ A Flutter-based movie streaming app that allows users to explore movies, view de
 
 ## 🎥 Gif
 
-![image alt](https://github.com/azizotbb/App-Design-Implementation/blob/Abdulaziz_Alotaibi/gif.gif)
+![image alt](https://github.com/azizotbb/App-Design-Implementation/blob/4f7f376779f179da44b04e9d24f849775b637e82/movieGif.gif)
 
 
 
