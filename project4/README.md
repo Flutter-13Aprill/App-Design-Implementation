@@ -6,9 +6,9 @@ We all were in a situation where we are hungry and order food that's the easy pa
 
 Well worry not my friend Because I'm here
 <img src = "assets/github_images/papyrus_pause.gif" alt = "papyrus - gif"> 
-
 I offer you StreamBun 🐇 You can watch quickly your favorite streamer
 or even watch a new streamer and maybe they will be your new favorite, you can discover the games and watch their walkthrough 🎮🎮
+
 ---
 
 <img src = "assets/github_images/streambun.gif" alt = "Screenshot - Output" width = "30%" height ="30%">
