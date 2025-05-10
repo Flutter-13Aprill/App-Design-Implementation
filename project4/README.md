@@ -42,18 +42,20 @@ or even watch a new streamer and maybe they will be your new favorite, you can d
 ---
 ##  Widgets 🐇🥪
 
-BottomNavigationHandler: for the BottomNavigationBar<br>
-BottomSheetStream: for the chat in the streams<br>
-DummyChat: for dummy data<br>
-LoginTextField: for login textfields<br>
-SignupTextField: for signup textfields<br>
-Pageindicator: for the page indicator on AppExplainingScreen<br>
-PageViewContainer: for the pages and text in the AppExplainingScreen<br>
-ProfileContainer: for FollowingScreen eachStreamer has a container with profile name and followers number<br>
-StreamsShimmer: Shimmer for 2 seconds until streams are loaded<br>
-TabGames: tab for each game icon only set the game icon<br>
-TabStreams: tab for streams are live now and set the stream thumbnail with current viewers and stream status<br>
-TabTopStreamers: tab for top streamers set stream tumbnail with current viewers and stream status<br>
+
+- BottomNavigationHandler: for the BottomNavigationBar<br>
+- BottomSheetStream: for the chat in the streams<br>
+- DummyChat: for dummy data<br>
+- LoginTextField: for login textfields<br>
+- SignupTextField: for signup textfields<br>
+- Pageindicator: for the page indicator on AppExplainingScreen<br>
+- PageViewContainer: for the pages and text in the AppExplainingScreen<br>
+- ProfileContainer: for FollowingScreen eachStreamer has a container with profile name and followers number<br>
+- StreamsShimmer: Shimmer for 2 seconds until streams are loaded<br>
+- TabGames: tab for each game icon only set the game icon<br>
+- TabStreams: tab for streams are live now and set the stream thumbnail with current viewers and stream status<br>
+- TabTopStreamers: tab for top streamers set stream tumbnail with current viewers and stream status<br>
+
 ---
 ---
 
