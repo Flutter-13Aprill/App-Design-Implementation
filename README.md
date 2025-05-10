@@ -1,74 +1,87 @@
-# 📱 App Design & Implementation – Flutter Project
+# 📘  Movie Streaming App (UI) – Overview
 
-## 📝 Overview
+A Flutter-based movie streaming app that allows users to explore movies, view detailed information, manage their profile, and more. The app is designed with a clean and modern interface using custom typography and a dark theme.
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
 
----
+## 📷 Screenshots 
 
-## ✅ Mandatory Requirements
+![image alt](https://github.com/azizotbb/App-Design-Implementation/blob/97cc0bbcb31a3744390f828168d87df6351b9e51/img.jpg)
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
 
----
 
-## 📌 Guidelines
+## 🎥 Gif
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
+![image alt](https://github.com/azizotbb/App-Design-Implementation/blob/Abdulaziz_Alotaibi/gif.gif)
 
----
 
-## 📤 Submission Requirements
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
+## 🔍 Features
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
+1. **Splash Screen:**
+   - Displays the app logo and navigates to the login screen after a delay.
 
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
+2. **Login Screen:**
+   - A simple screen where users can log in to access the app.
 
----
+3. **Profile Screen:**
+   - Displays user information with options to manage their profile settings, including "Watch list", "Privacy", "About", and "Logout."
 
-## 🧰 Resources
+4. **Search Screen:**
+   - Allows users to search for movies using a text field with an interactive search icon.
 
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
+5. **Home Screen:**
+   - Features a tabbed layout to explore different movie categories: "Now Playing", "Upcoming", and "Popular."
 
----
+6. **Movie Details:**
+   - Shows detailed movie information, including title, rating, synopsis, and a bookmark button.
 
-## ⏰ Deadline
+7. **Movie Cards:**
+   - A grid of movie thumbnails that can be tapped to view movie details.
 
-**Submit your project by May 11, before 10:00 AM.**
+8. **Continue Watching:**
+   - A "Continue Watching" feature that lets users pick up where they left off on a movie.
 
----
 
-## ✨ Final Note
 
-> "Good luck, and have fun creating your app!" 🎨📱
 
+## Tech Stack
+
+- Flutter (latest version) 
+- Dart
+
+
+
+## Installation
+
+1.  Clone the repository:
+
+    `https://github.com/azizotbb/App-Design-Implementation.git` 
+
+2.  Navigate to the project folder:
+
+    `cd movie_app` 
+
+3.  Install dependencies:
+
+    `flutter pub get` 
+
+4.  Run the app:
+
+    `flutter run`
+
+
+
+
+## Folder Structure
+
+    lib/
+    ├── screens/
+    ├── widgets/
+    └── main.dart
+    
+
+    
+## ✨ Author
+
+- AbdulAziz Alotaibi
