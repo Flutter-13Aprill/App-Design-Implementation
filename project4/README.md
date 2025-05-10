@@ -5,7 +5,7 @@
 We all were in a situation where we are hungry and order food that's the easy part but the hard part about it is what am I going to watch 😮‍💨
 
 Well worry not my friend Because I'm here
-<img src = "assets/github_images/papyrus_pause.gif" alt = "papyrus - gif"> 
+<img src = "assets/github_images/papyrus_pause.gif" alt = "papyrus - gif"> <br>
 I offer you StreamBun 🐇 You can watch quickly your favorite streamer
 or even watch a new streamer and maybe they will be your new favorite, you can discover the games and watch their walkthrough 🎮🎮
 
