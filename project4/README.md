@@ -40,7 +40,7 @@ or even watch a new streamer and maybe they will be your new favorite, you can d
 
 ---
 ---
-#  Widgets 🐇🥪
+##  Widgets 🐇🥪
 
 BottomNavigationHandler: for the BottomNavigationBar<br>
 BottomSheetStream: for the chat in the streams<br>
