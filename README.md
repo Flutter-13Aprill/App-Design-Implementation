@@ -1,74 +1,71 @@
-# 📱 App Design & Implementation – Flutter Project
+#  ✨ **Taskins** Mobile App 📱  ✨
 
-## 📝 Overview
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
+## ✅ what is **Taskins**?
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
+ **Taskins** is your go-to app for beating stress and staying on top of your to-dos! 
+It’s designed to help you manage tasks without overwhelm, with a touch of gamification:
 
----
+📝 **Active Lists** – your current to-dos  
+🕒 **Pending Lists** – paused projects you plan to finish  
+✅ **Saved Lists** – completed lists you might want to revisit  
+🎉 **Gamification:** Celebrate every small win with confetti when you check off a task.  
+🌱 **Wind Down:** The Explore page includes relaxing activities like journaling, breathing techniques, and mini-games.  
+👥 **Social Touch:** Stay connected with your friends and track your history in the profile section.
+ 
 
-## ✅ Mandatory Requirements
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
+## 📱 App Screenshots
 
----
+| ![Image 1](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.28.43.png) | ![Image 2](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.28.46.png) | ![Image 3](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.28.50.png) | ![Image 4](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.01.png) | ![Image 5](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.05.png) |
+|---|---|---|---|---|
+| ![Image 6](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.07.png) | ![Image 7](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.12.png) | ![Image 8](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.16.png) | ![Image 9](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.20.png) | ![Image 10](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.24.png) |
+| ![Image 11](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.27.png) | ![Image 12](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.29.png) | ![Image 13](Simulator%20Screenshot%20-%20iPhone%2013%20Pro%20Max%20-%202025-05-10%20at%2012.29.33.png) |  |  |
 
-## 📌 Guidelines
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
 
----
 
-## 📤 Submission Requirements
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
 
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
 
----
 
-## 🧰 Resources
+## ✅  Widgets used 
 
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
++ Navbar
++ Drawer
++ Bottom Sheet
++ AlertDialog
++ TextField
++ pageView
++ TbBar and TabBarView
 
----
 
-## ⏰ Deadline
 
-**Submit your project by May 11, before 10:00 AM.**
+## ✅ External packages used 
+
++ shimmer
++ animate
++ confetti 
+
+
+## ✅ How to Run the Taskins App
+
++ **📦 Prerequisites**  
+  + Flutter SDK installed ([Download Flutter](https://docs.flutter.dev/get-started/install))  
+  + Dart installed (usually included with Flutter)  
+  + Git installed ([Download Git](https://git-scm.com/downloads))  
+  + An Android Emulator, iOS Simulator, or a physical device connected  
+
++ **🛠️ Clone the Repository**  
+  ```bash
+  git clone https://github.com/Lamees56/App-Design-Implementation.git
+  cd App-Design-Implementation
+
 
 ---
 
-## ✨ Final Note
+## ✅ Author 👩‍💻 💻
 
-> "Good luck, and have fun creating your app!" 🎨📱
+Lamees Al-Amri 
 
