@@ -1,74 +1,42 @@
-# 📱 App Design & Implementation – Flutter Project
+ ## planing App
 
-## 📝 Overview
-
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
-
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
-
+A simple Flutter application to manage your daily tasks and notes efficiently.
+This app is structured with a bottom navigation bar to switch easily between Tasks and Notes.
 ---
 
-## ✅ Mandatory Requirements
+## Features:
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
+- View, add, and delete Notes with a smooth user interface.
 
+- Display a list of Tasks with interactive icons.
+
+- Bottom Navigation for seamless switching between screens.
 ---
 
-## 📌 Guidelines
-
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
-
+## Project Structure:
+lib/
+│
+├── screens/
+│   ├── splash_screen.dart       
+│   ├── login_screen.dart 
+│   └── signup_screen.dart
+│   ├── home_screen.dart       # Main screen with Bottom Navigation
+│   ├── notes_screen.dart      # Screen to display and manage notes
+│   └── tasks_screen.dart      # Screen to display list of tasks
+│
+├── main.dart                  # Main entry point of the application
 ---
 
-## 📤 Submission Requirements
+## Dependencies:
+shimmer: For shimmer effects in the UI
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
+## screenshots:
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
-
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
-
----
-
-## 🧰 Resources
-
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
-
----
-
-## ⏰ Deadline
-
-**Submit your project by May 11, before 10:00 AM.**
-
----
-
-## ✨ Final Note
-
-> "Good luck, and have fun creating your app!" 🎨📱
-
+![splash_screen](screenshots/splash_screen.jpg)
+![login_screen](screenshots/login_screen.jpg)
+![sign_up](screenshots/sign_up.jpg)
+![notes_screen1](screenshots/notes_screen1.jpg)
+![notes_screen2](screenshots/notes_screen2.jpg)
+![notes_screen3](screenshots/notes_screen3.jpg)
+![Tasks Screen](screenshots/tasks_screen.jpg)
+![tasks_screen2](screenshots/tasks_scree2.jpg)
