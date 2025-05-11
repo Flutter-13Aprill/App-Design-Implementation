@@ -1,13 +1,12 @@
-# 📱 App Design & Implementation – Flutter Project
 
-## 📝 Overview
+#  task App
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
-
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
-
+A small task app helps you stay organized by allowing you to quickly create and manage your to-do lists.
 ---
+## 🎥 App Preview
+
+![App Preview](./screen.gif)
+
 
 ## ✅ Mandatory Requirements
 
@@ -32,43 +31,4 @@ This is your chance to showcase your creativity and apply a wide range of Flutte
 - This is an **individual project** – work independently.
 - Feel free to explore and demonstrate your creativity.
 - Design and implementation should reflect **your unique vision and skills**.
-
----
-
-## 📤 Submission Requirements
-
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
-
-### 🧾 README File (Documentation)
-Your `README.md` should include:
-
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
-
----
-
-## 🧰 Resources
-
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
-
----
-
-## ⏰ Deadline
-
-**Submit your project by May 11, before 10:00 AM.**
-
----
-
-## ✨ Final Note
-
-> "Good luck, and have fun creating your app!" 🎨📱
 
