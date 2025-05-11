@@ -5,7 +5,7 @@ A small task app helps you stay organized by allowing you to quickly create and 
 ---
 ## 🎥 App Preview
 
-![App Preview](./screen.gif)
+![App Preview](/screen.gif)
 
 
 ## ✅ Mandatory Requirements
