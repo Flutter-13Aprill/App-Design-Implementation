@@ -10,8 +10,8 @@ Residence is a mobile app designed to offer affordable shared accommodation opti
 ---
 ### 🔍 Project Preview
 
-<img src="PagePreview.gif" alt="Preview" width="350">
-<img src="PagePreview.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto" />
+<img src="pagePreview.gif" alt="Preview" width="350">
+<img src="pagePreview.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto" />
 
 
 
