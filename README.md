@@ -2,7 +2,7 @@
 ## Residence App 🏠
 ### Tuwaiq Academy Flutter Bootcamp
 
-### 📘 Introduction
+### 💡 Project Idea
 
 Residence is a mobile app designed to offer affordable shared accommodation options in Riyadh. With the rising cost of living, we provide users with a platform to find and connect with others looking for shared housing, ensuring a budget-friendly living experience. The app allows direct communication between users and landlords, with financial security and guaranteed rights for all parties involved. Whether you're looking for a room or seeking housemates, Residence simplifies the process and ensures a smooth experience for both tenants and property owners.
 
@@ -26,7 +26,6 @@ Residence is a mobile app designed to offer affordable shared accommodation opti
 
 ---
 
----
 ### 📱 Widgets Used
 
 1. AlertDialog  
