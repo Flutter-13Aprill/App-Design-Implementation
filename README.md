@@ -43,7 +43,7 @@ A Flutter-based movie streaming app that allows users to explore movies, view de
    - A "Continue Watching" feature that lets users pick up where they left off on a movie.
 
 
-##📦 Packages
+## 📦 Packages
 
 `google_fonts`
 
