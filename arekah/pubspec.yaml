@@ -1,0 +1,50 @@
+name: arekah
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.1.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/splash.jpg
+  - assets/splash2.jpg
+  - assets/logo.svg
+  - assets/bg1.jpg
+  - assets/bg2.jpg
+  - assets/bg3.jpg
+  - assets/backGround.png
+  - assets/apple.png
+  - assets/couchs.png
+  - assets/facebook.png
+  - assets/google.png
+  - assets/lamps.png
+  - assets/tvs.png
+  - assets/All.png
+  - assets/bed.png
+  - assets/cart.png
+  - assets/cartWhite.png
+  - assets/profile.png
+  - assets/profileWhite.png
+  - assets/explore.png
+  - assets/img1.png
+  - assets/2.png
+  - assets/3.png
+  - assets/4.png
+  - assets/exploreWhite.png
+  - assets/colors.png
+  - assets/stars.png
+
