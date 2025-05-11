@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:shopmate/screens/lists_screens.dart';
 import 'package:shopmate/screens/profile_screen.dart';
+import 'package:shopmate/screens/search_screen.dart';
 
 // Implements a bottom navigation bar to switch between Lists and Profile screens.
 class BottomNavigation extends StatefulWidget {
@@ -14,7 +15,11 @@ class _BottomNavigationState extends State<BottomNavigation> {
   // Track the current selected index
   int selectedIndex = 0;
   // List of screens
-  final List<Widget> screens = const [ListsScreens(), ProfileScreen()];
+  final List<Widget> screens = const [
+    ListsScreens(),
+    SearchScreen(),
+    ProfileScreen(),
+  ];
 
   @override
   Widget build(BuildContext context) {
@@ -31,6 +36,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
             icon: Icon(Icons.list_rounded),
             label: 'Lists',
           ),
+          BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'),
 
           BottomNavigationBarItem(icon: Icon(Icons.person), label: 'Profile'),
         ],
