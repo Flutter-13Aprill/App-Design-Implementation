@@ -1,74 +1,68 @@
-# 📱 App Design & Implementation – Flutter Project
+![Tuwaiq Academy Logo](assets/README/tuwaiq_academy_logo.png)
 
-## 📝 Overview
+# Kaf
+Kaf is a sleek and visually appealing platform designed to showcase an elegant, user-friendly interface. The app offers a seamless and intuitive experience, allowing users to explore a variety of coffee options and view detailed product information through vibrant images and organized layouts. With a clean, modern design, Kaf emphasizes clarity, visual consistency, and smooth interactions. It is purely a UI experience, with no interactivity or backend functionality, making it an ideal showcase of both aesthetic and functional design principles for a coffee shop app.
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
 
----
 
-## ✅ Mandatory Requirements
+# Getting Started
+### Prerequisites
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
+Flutter SDK 
 
----
+A code editor (such as VS Code or Android Studio)
 
-## 📌 Guidelines
+### Installation
+1. Clone the repository:
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
+   ```
+   git clone https://github.com/2Mhd6/App-Design-Implementation
+   ```
 
----
+2. Navigate to the project directory:
 
-## 📤 Submission Requirements
+   ```
+   cd App-Design-Implementation
+   ```
+   
+3. Install dependencies:
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
+   ```
+   flutter pub get
+   ```
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
+4. Run the app:
 
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
+   ```
+   flutter run
+   ```
 
----
 
-## 🧰 Resources
+## Output
+<img src = "assets/README/Kaf - Walkthrough.gif" alt = "Kaf - Walkthrough" width = "30%" height ="30%">
 
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
 
----
 
-## ⏰ Deadline
+## Languages, Frameworks & Packages
 
-**Submit your project by May 11, before 10:00 AM.**
+**Dart**
 
----
+**Flutter**
 
-## ✨ Final Note
+[**flutter_native_splash**](https://pub.dev/packages/flutter_native_splash)
 
-> "Good luck, and have fun creating your app!" 🎨📱
+[**flutter_svg**](https://pub.dev/packages/flutter_svg)
+
+[**google_fonts**](https://pub.dev/packages/google_fonts)
+
+[**intl_phone_field**](https://pub.dev/packages/intl_phone_field)
+
+[**gradient_borders**](https://pub.dev/packages/gradient_borders)
+
+[**shimmer**](https://pub.dev/packages/shimmer)
+
+## Created By
+
+[**Mohammed S. Alshammari**](https://www.linkedin.com/in/mohammedsalshammari/)
 
