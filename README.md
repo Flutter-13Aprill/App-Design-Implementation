@@ -1,74 +1,37 @@
-# 📱 App Design & Implementation – Flutter Project
+# Dallah Hospital UI
+A modern healthcare mobile UI for Dallah Hospitals, providing seamless access to medical services and personal health information.
+![1](https://github.com/user-attachments/assets/f35ef2b4-2b22-49a9-86f9-b25f23ae7336)
 
-## 📝 Overview
+![2](https://github.com/user-attachments/assets/f25d6b20-72f8-4744-b74c-1dd3e56b3bda)
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
+## Features
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
+- User-Friendly Interface – Simple and intuitive design for easy navigation.
 
----
+- Secure User Profiles – Manage personal and medical information safely.
 
-## ✅ Mandatory Requirements
 
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
----
 
-## 📌 Guidelines
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/Educational-Kids-Game.git
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
+2.	Navigate to the project folder: 
+cd  Educational-Kids-Game
 
----
+3. Install dependencies: 
+flutter pub get 
 
-## 📤 Submission Requirements
+4.	Run the app: 
+flutter run 
 
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
+## How to Use 
+- Open the app. 
+- Browse through available screens. 
 
-### 🧾 README File (Documentation)
-Your `README.md` should include:
-
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
-
----
-
-## 🧰 Resources
-
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
-
----
-
-## ⏰ Deadline
-
-**Submit your project by May 11, before 10:00 AM.**
-
----
-
-## ✨ Final Note
-
-> "Good luck, and have fun creating your app!" 🎨📱
-
+## Author 
+- Shatha Altwaijri 
