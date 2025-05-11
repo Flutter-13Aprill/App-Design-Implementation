@@ -8,16 +8,16 @@ import 'package:kaf/widgets/subtraction_item_button_widget.dart';
 // -- Extension 
 import 'package:kaf/extensions/screen_sizes.dart';
 
-class ProductDetailsScreen extends StatefulWidget {
+class ProductDetailsWidget extends StatefulWidget {
 
-  /// [ProductDetailsScreen] is a screen that displays the drink’s name, description, and cost.
-  const ProductDetailsScreen({super.key});
+  /// [ProductDetailsWidget] is a screen that displays the drink’s name, description, and cost.
+  const ProductDetailsWidget({super.key});
 
   @override
-  State<ProductDetailsScreen> createState() => _ProductDetailsState();
+  State<ProductDetailsWidget> createState() => _ProductDetailsWidgetState();
 }
 
-class _ProductDetailsState extends State<ProductDetailsScreen> {
+class _ProductDetailsWidgetState extends State<ProductDetailsWidget> {
 
   final description = 'A bold and velvety espresso blended with steamed milk and a thin layer of microfoam for a smooth, balanced coffee experience.';
   int count = 1; 

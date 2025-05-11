@@ -65,7 +65,7 @@ class _ListingCoffeeItemsWidgetState extends State<ListingCoffeeItemsWidget> {
               showModalBottomSheet(
                 backgroundColor: Colors.white,
                 context: context,
-                builder: (context) => ProductDetailsScreen(),
+                builder: (context) => ProductDetailsWidget(),
               );
             },
           );

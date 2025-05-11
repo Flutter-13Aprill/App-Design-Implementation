@@ -20,7 +20,7 @@ class OnboardingPageViewWidget extends StatelessWidget {
         
         SvgPicture.asset(imagePath),
 
-        // I have an issue with the SVG height, so  solved by checking if the description length more than 70 make it 72 otherwise 145
+        // I have an issue with the SVG height. So, solved by checking if the description length more than 70 make it 72 otherwise 145
         // Play around to see what I meant
         SizedBox(height: description.length > 70 ? 72 : 120),
 
