@@ -11,21 +11,57 @@ Residence is a mobile app designed to offer affordable shared accommodation opti
 ### 🔍 Project Preview
 
 <img src="PagePreview.gif" alt="Preview" width="350">
+<img src="PagePreview.png" alt="Project Pages" style="width:100%; max-width:600px; display:block; margin:auto" />
+
 
 
 ---
-###  Packages Used
+### 📦 Packages Used
 
 - **flutter_chat_ui**: Provides a ready-made chat UI for Flutter apps.
 - **shimmer**: Adds a shimmering effect for displaying loading states.
-- **flutter_chat_core**: Provides core functionalities for building chat applications like sending and receiving messages.
-- **stream_chat_flutter**: Provides interfaces to interact with the Stream live chat service.
-- **stream_chat_localizations**: Helps in translating the chat app when using Stream's chat service.
-- **responsive_builder**: Helps in building responsive layouts for different screen sizes.
-- **cupertino_icons**: Includes iOS-style icons for use in Flutter apps.
 - **smooth_page_indicator**: Provides a smooth page indicator for navigating between pages.
 - **flutter_svg**: Renders SVG images in Flutter applications.
 - **google_nav_bar**: Provides a Google-style bottom navigation bar for Flutter apps.
+
+---
+
+---
+### 📱 Widgets Used
+
+1. AlertDialog  
+2. AppBar  
+3. BottomNavigationBar  
+4. BottomSheet  
+5. Center  
+6. CircleAvatar  
+7. Column  
+8. Container  
+9. Drawer  
+10. DrawerHeader  
+11. Divider  
+12. TextField  
+13. Expanded  
+14. Icon  
+15. IconButton  
+16. Image  
+17. ListTile  
+18. ListView  
+19. Padding  
+20. PageView  
+21. Positioned  
+22. Row  
+23. SafeArea  
+24. Scaffold  
+25. SearchBar  
+26. SingleChildScrollView  
+27. SizedBox  
+28. SmoothPageIndicator  
+29. Stack  
+30. TabBar  
+31. TabBarView  
+32. Text  
+
 
 ---
 ### ⚙️ Tech Stack

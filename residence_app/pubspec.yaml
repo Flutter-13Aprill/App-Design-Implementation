@@ -36,7 +36,7 @@ dependencies:
 
   shimmer: ^3.0.0
 
-  flutter_chat_core: ^2.1.1
+  # flutter_chat_core: ^2.1.1
 
   # stream_chat_flutter: ^9.9.0
   # stream_chat_localizations: ^6.0.0

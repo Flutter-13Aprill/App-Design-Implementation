@@ -127,7 +127,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_chat_core:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: flutter_chat_core
       sha256: "5959f6c2f19def95de31873b04d282da6afa481d5d533de23c4fdee801a5ed66"
