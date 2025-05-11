@@ -15,6 +15,8 @@ Check out the UI design on Figma:
 
 ### Output 📱
 
+https://github.com/user-attachments/assets/b29b8eb9-6671-4afb-9fe5-c22d90e1db63
+
 ---
 
 ### Features ⭐️
@@ -22,7 +24,6 @@ Check out the UI design on Figma:
 - 🛒 Create shopping lists
 - ➕ Add and delete items in a list
 - ✅ Mark items as done
-- 📦 Archive old lists
 - 👤 View profile and settings
 - 🎨 Smooth and clean design with pastel colors
 
@@ -66,7 +67,32 @@ flutter run
 ### Folder Structure 🔨
 
 ```
-
+lib
+   ├── controller
+   │   ├── item_controller.dart
+   │   └── list_controller.dart
+   ├── extensions
+   │   └── screens
+   │       └── get_size_screen.dart
+   ├── main.dart
+   ├── model
+   │   ├── item.dart
+   │   └── onboarding_content.dart
+   ├── screens
+   │   ├── bottom_navigation.dart
+   │   ├── lists_screens.dart
+   │   ├── login_sginup_screens.dart
+   │   ├── onboarding_screens.dart
+   │   ├── profile_screen.dart
+   │   └── search_screen.dart
+   └── widgets
+       ├── add_item.dart
+       ├── add_list.dart
+       ├── build_list_tile.dart
+       ├── log_in.dart
+       ├── sign_up.dart
+       ├── socialmedia_login.dart
+       └── text_field_thema.dart
 ```
 
 ---
@@ -78,8 +104,7 @@ flutter run
 3. Create a new shopping list
 4. Add items to your list
 5. Tap items to mark them as done
-6. Archive lists when you're finished
-7. Go to your profile to update info
+6. Go to your profile to update info
 
 ---
 
