@@ -1,3 +1,6 @@
+![image alt](https://cdn.tuwaiq.edu.sa/landing/images/logo/logo-h.png)
+
+
 # 📘  Movie Streaming App (UI) – Overview
 
 A Flutter-based movie streaming app that allows users to explore movies, view detailed information, manage their profile, and more. The app is designed with a clean and modern interface using custom typography and a dark theme.
