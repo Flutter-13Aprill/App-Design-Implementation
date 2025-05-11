@@ -49,9 +49,8 @@ class _FavoritScreenState extends State<FavoritScreen> {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    BackButton(color: Colors.white),
                     Text(
                       "Favorite Residence",
                       style: TextStyle(

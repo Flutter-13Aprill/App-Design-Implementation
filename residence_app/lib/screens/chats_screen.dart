@@ -30,10 +30,9 @@ class ChatsScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    BackButton(color: Colors.white),
-                    const Text(
+                    Text(
                       "Chats",
                       style: TextStyle(
                         color: Colors.white,

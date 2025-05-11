@@ -48,9 +48,8 @@ class _PreviousBookingsScreenState extends State<PreviousBookingsScreen> {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    BackButton(color: Colors.white),
                     Text(
                       "Previous Bookings",
                       style: TextStyle(

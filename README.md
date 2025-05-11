@@ -1,74 +1,95 @@
-# 📱 App Design & Implementation – Flutter Project
 
-## 📝 Overview
+## Residence App 🏠
+### Tuwaiq Academy Flutter Bootcamp
 
-In this individual project, you will **design and implement a Flutter app** of your choice.  
-This is your chance to showcase your creativity and apply a wide range of Flutter concepts and widgets to create a unique and engaging user experience.
+### 📘 Introduction
 
-> 🎯 You are required to implement **at least seven different UIs** and include **all the mandatory concepts listed below**.
+Residence is a mobile app designed to offer affordable shared accommodation options in Riyadh. With the rising cost of living, we provide users with a platform to find and connect with others looking for shared housing, ensuring a budget-friendly living experience. The app allows direct communication between users and landlords, with financial security and guaranteed rights for all parties involved. Whether you're looking for a room or seeking housemates, Residence simplifies the process and ensures a smooth experience for both tenants and property owners.
 
----
-
-## ✅ Mandatory Requirements
-
-| Feature | Description |
-|--------|-------------|
-| 🔹 Drawer Widget | Use a navigational drawer to manage different sections of the app. |
-| 🔹 AlertDialog | Implement alert dialogs for confirmations or important messages. |
-| 🔹 TextFields | Add input fields for search bars, forms, or login screens. |
-| 🔹 Navigation Between Views | Provide smooth and seamless navigation across views. |
-| 🔹 BottomNavigationBar | Allow users to switch between major sections of the app. |
-| 🔹 External Packages | Use **at least 2** external packages to enhance UI/UX. |
-| 🔹 Shimmer Effect | Add shimmer loading animations to improve user experience. |
-| 🔹 Splash Screen | Include a splash screen on app launch. |
-| 🔹 Bottom Sheet | Show additional options or info using bottom sheets. |
-| 🔹 TabBarView & TabBar | Organize content using tabs for better UX. |
-| 🔹 PageView | Create scrollable pages (e.g., for onboarding or sliders). |
 
 ---
+### 🔍 Project Preview
 
-## 📌 Guidelines
+<img src="PagePreview.gif" alt="Preview" width="350">
 
-- This is an **individual project** – work independently.
-- Feel free to explore and demonstrate your creativity.
-- Design and implementation should reflect **your unique vision and skills**.
 
 ---
+###  Packages Used
 
-## 📤 Submission Requirements
-
-### 🖼️ Screenshots / Videos
-- Provide clear screenshots or a **short demo video** of your app highlighting key features and UI.
-
-### 🧾 README File (Documentation)
-Your `README.md` should include:
-
-- **Purpose** and **features** of your app.
-- **Widgets** and **external packages** used.
-- **Instructions** for running the app.
-- Any additional **notes** or design choices you'd like to share.
-
----
-
-## 🧰 Resources
-
-- **Flutter Widgets & Documentation:** [Material Components](https://flutter.dev/docs/development/ui/widgets)
-- **Color Palettes:** [Color Hunt](https://colorhunt.co/)
-- **Design Inspiration:**  
-  - [Figma Community](https://www.figma.com/community)  
-  - [Pinterest](https://www.pinterest.com)  
-  - [Dribbble](https://dribbble.com)  
-  - [Mobbin](https://mobbin.com)
+- **flutter_chat_ui**: Provides a ready-made chat UI for Flutter apps.
+- **shimmer**: Adds a shimmering effect for displaying loading states.
+- **flutter_chat_core**: Provides core functionalities for building chat applications like sending and receiving messages.
+- **stream_chat_flutter**: Provides interfaces to interact with the Stream live chat service.
+- **stream_chat_localizations**: Helps in translating the chat app when using Stream's chat service.
+- **responsive_builder**: Helps in building responsive layouts for different screen sizes.
+- **cupertino_icons**: Includes iOS-style icons for use in Flutter apps.
+- **smooth_page_indicator**: Provides a smooth page indicator for navigating between pages.
+- **flutter_svg**: Renders SVG images in Flutter applications.
+- **google_nav_bar**: Provides a Google-style bottom navigation bar for Flutter apps.
 
 ---
-
-## ⏰ Deadline
-
-**Submit your project by May 11, before 10:00 AM.**
+### ⚙️ Tech Stack
+- **Flutter**
+- **Dart**
 
 ---
+### 💻  Setup instructions 
 
-## ✨ Final Note
+ 1. Clone the repository:
 
-> "Good luck, and have fun creating your app!" 🎨📱
+```
+https://github.com/RemasNg1/App-Design-Implementation\residence_app.git
+```
+2. Navigate to the project folder:
+
+```
+cd App-Design-Implementation\residence_app
+```
+
+3. Install dependencies:
+```
+flutter pub get
+```
+
+ 4. Run the app:
+ ```
+ flutter run 
+ ```  
+
+---
+### 📂 Folder Structure 
+
+```
+ ├── main.dart
+   ├── widgets
+   │   ├── booking_card_shimmer_widget.dart
+   │   ├── booking_card_widget.dart
+   │   ├── bottom_sheet.dart
+   │   ├── chat_tile_widget.dart
+   |   ├── favorite_card_shimmer_widget.dart
+   │   ├── favorite_card_widget.dart
+   │   ├── room_card_shimmer_widget.dart
+   │   └── room_card_widget.dart
+   └── screens
+       ├── favorit_screen.dart
+       ├── home_screen.dart
+       ├── login_signup_screen.dart
+       ├── previous_bookings_screen.dart
+       ├── splash_screen.dart
+       ├── chats_screen.dart
+       ├── chat_view.dart
+       ├── bottom_navbar.dart
+       └── started_screen.dart
+       
+       
+```
+
+
+---
+### 🖊️ Author
+Remas Alnugaithan
+
+
+
+
 
