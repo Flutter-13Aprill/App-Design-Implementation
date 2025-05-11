@@ -45,9 +45,11 @@ A Flutter-based movie streaming app that allows users to explore movies, view de
 
 ##📦 Packages
 
-**google_fonts**
-**redacted**
-**flutter_native_splash**
+`google_fonts`
+
+`redacted`
+
+`flutter_native_splash`
 
 
 
