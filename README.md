@@ -35,6 +35,25 @@ https://github.com/user-attachments/assets/b29b8eb9-6671-4afb-9fe5-c22d90e1db63
 - **Dart**
 
 ---
+### Widgets and External Packages Used  💻
+
+#### Widgets:
+- Drawer
+- AlertDialog
+- TextFields
+- Navigation
+- BottomNavigationBar
+- Bottom Sheet
+- TabBar & TabBarView
+- PageView
+
+#### External Packages:
+- flutter_inset_shadow: ^2.0.3
+- flutter_native_splash: ^2.4.6
+- flutter_svg: ^2.1.0
+- shimmer: ^3.0.0
+
+---
 
 ### Installation 🛠️
 
